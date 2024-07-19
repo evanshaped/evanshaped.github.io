@@ -6,15 +6,15 @@
 
 Description
 
-<img src="_projects/britton_lab/meas_1.png?raw=true"/>
+<img src="projects/britton_lab/meas_1.png?raw=true"/>
 
-<img src="_projects/britton_lab/hist_1.png?raw=true"/>
+<img src="projects/britton_lab/hist_1.png?raw=true"/>
 
 <img src="images/hist_1.png?raw=true"/>
 
-<img src="_projects/britton_lab/headshot_2.jpg?raw=true"/>
+<img src="projects/britton_lab/headshot_2.jpg?raw=true"/>
 
-<img src="_projects/britton_lab/hist_1.png"/>
+<img src="projects/britton_lab/hist_1.png"/>
 
 [View code on Github](https://github.com/evanshaped/PAX-rate-visualization)
 
