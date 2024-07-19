@@ -1,9 +1,11 @@
 title: Evan's Portfolio # your name (or website title) here
 logo: "/images/headshot_2.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Hi! I'm an aspiring data scientist looking to forward my career. I just graduated from the University of Maryland in May, 2024 with a B.S. in Computer Science and Physics. I passionate about extracting useful trends from data and learning new Computer Vision and NLP research. I'm currently performing DS & front-end software engineering at NAVAIR to help Navy personnel remain safe and informed day-to-day, and am excited to add Flask and CICD methedologies to my toolbox.
+  Hi! I'm a data scientist and aspiring ML engineer. I just graduated from the University of Maryland in May, 2024 with a B.S. in Computer Science and Physics. I'm passionate about extracting useful trends from data and enjoy learning about new Computer Vision and NLP research.
   <br><br>
-  I built this github page as a portfolio for my work and progress as a data scientist. I want to display my skills and interests efficiently and aesthetically. As I'm in the early stages of creating this portfolio, much of my work is missing and/or needs refinement, but please look around at what I do have so far! 
+  I'm currently performing DS & front-end software engineering at NAVAIR.
+  <br><br>
+  I built this portfolio to display my skills and interests efficiently and aesthetically. As I'm in the early stages of creating this portfolio, most content is missing and/or needs refinement, but please look around at what I do have so far! 
   <br><br>
   <a href="/pdf/Evan_McClintock_Resume_24-06.pdf">View My Resume</a>
   <br><br>
