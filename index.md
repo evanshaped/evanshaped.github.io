@@ -12,7 +12,7 @@ Description
 
 <img src="images/hist_1.png?raw=true"/>
 
-<img src="_projects/britton_lab/headshot_2?raw=true"/>
+<img src="_projects/britton_lab/headshot_2.jpg?raw=true"/>
 
 <img src="_projects/britton_lab/hist_1.png"/>
 
