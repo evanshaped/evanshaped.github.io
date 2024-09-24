@@ -2,37 +2,33 @@
 
 ---
 
-### PAX rate visualization
+### [Polarization drift in buried fiber optic cables](/projects/britton_lab/pol_repo_display)
 
-Description
+Coding & design highlights from my independent physics research project during undergrad (Britton Laboratory, University of Maryland College Park).
 
-<img src="projects/britton_lab/meas_1.png?raw=true"/>
+Includes:
+* Experimental setup (built using infrared lasers, fiber polarization controllers, & wavelength division multiplexer)
+* Algorithm for cleaning & processing polarization data
+* Formulation of an intuitive metric to quantify polarization drift
 
 <img src="projects/britton_lab/hist_1.png?raw=true"/>
-
-[View code on Github](https://github.com/evanshaped/PAX-rate-visualization)
-
----
-
-### Polarization drift research in Britton Laboratory
-
-Description
-
-[View code on Github](https://github.com/evanshaped/BrittonPolRepo)
 
 ---
 
 ### Category Name 1 
 
 [Project 1 Title](/sample_page)
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
